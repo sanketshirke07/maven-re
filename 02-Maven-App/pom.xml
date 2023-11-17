@@ -14,5 +14,9 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<groupId>spring</groupId>
+      <artifactId>spring core</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
   </dependencies>
 </project>
